@@ -1,4 +1,4 @@
-# SFML-Extended
+# SFML-Extensions
 Simple Extensions for the C++ SFML library.
 
 # Included:
