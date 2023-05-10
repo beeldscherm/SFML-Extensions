@@ -18,7 +18,7 @@ class Counter
 public:
     int value, goal;
 
-    bool tick();
+    bool tick()  { return ++value >= goal ? true : false; };
     void reset() { value = 0; }
 
     Counter();
